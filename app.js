@@ -1,3 +1,9 @@
+// Guide:
+// npm install
+// to run:
+// node app
+// Access endpoint from: http://localhost:3001/json
+
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
